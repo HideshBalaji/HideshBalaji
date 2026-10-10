@@ -4,6 +4,6 @@
 
 <br>
 
-<h2 align="center">I build things, play video games and try finding niche music in my free time</h2>
+<h2>I build things, play video games and try finding niche music in my free time</h2>
 
 <br>
