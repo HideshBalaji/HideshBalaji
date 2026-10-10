@@ -2,4 +2,8 @@
     <img src="assets/gif.gif" alt="Literally me">
 </p>
 
-<p align="center">bing chilling, bing chilling</p>
+<br>
+
+<h2 align="center">I build things, play video games and try finding niche music in my free time</h2>
+
+<br>
